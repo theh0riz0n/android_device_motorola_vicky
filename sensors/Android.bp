@@ -1,5 +1,5 @@
 cc_library_shared {
-    name: "sensors.dubai",
+    name: "sensors.vicky",
     defaults: ["hidl_defaults"],
     srcs: [
         "Sensor.cpp",

@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "FrameworksResvicky",
+    sdk_version: "current",
+    vendor: true
+}
